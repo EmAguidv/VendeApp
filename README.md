@@ -10,7 +10,7 @@ Este es el repositorio oficial para el sistema de gestión de ventas desarrollad
 
 ## Requisitos
 
-- **Python 3.x**
+- **Python**
 - **Bibliotecas necesarias**:
   - `tkinter`
   - `sqlite3`
