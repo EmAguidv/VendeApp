@@ -1,6 +1,6 @@
 # Vende Humos - Sistema de Gestión de Ventas
 
-Este es el repositorio oficial para el sistema de gestión de ventas desarrollado para la tabaquería "Vende Humos". Esta aplicación permite gestionar el inventario, los clientes, y las ventas de manera eficiente, con funcionalidades avanzadas como reportes, sistema de usuarios
+Este es el repositorio oficial para el sistema de gestión de ventas desarrollado para la tabaquería "Vende Humos". Esta aplicación permite gestionar el inventario, los clientes, y las ventas de manera eficiente, con funcionalidades avanzadas como historial de ventas y gestion de productos
 
 ## Características Principales
 
